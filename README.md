@@ -86,8 +86,15 @@ This system enables gesture-based human-computer interaction without the need fo
 ## Architecture 
 - Component Architecture
   ![image](https://github.com/user-attachments/assets/f55b8de8-e3f1-49b5-b383-e29b4ec36495)
+  ![image](https://github.com/user-attachments/assets/8a1e95fe-e10e-421b-9b40-bb3b7741e497)
+   ![image](https://github.com/user-attachments/assets/c676ab2d-289f-41f5-a3ac-4811931e6a02)
   ![image](https://github.com/user-attachments/assets/0feffcff-165d-42cb-b555-01f1717973b0)
   ![image](https://github.com/user-attachments/assets/86c601f0-c9ec-465f-b122-30116c7c4591)
+
+## Implementation
+- Adrino IDE
+  ![image](https://github.com/user-attachments/assets/a22288ce-6485-4369-bca5-dec7a159ce9a)
+  ![image](https://github.com/user-attachments/assets/afd42b33-f71c-458e-bfdb-3c68f407277c)
 
 ## Video Demo Link 
 
